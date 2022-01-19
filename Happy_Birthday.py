@@ -17,4 +17,5 @@ if decision == "Yes":
         else:
             print("Better luck next time")
     else:
-        print("")
+        name = I
+        print("Not for you", name)
