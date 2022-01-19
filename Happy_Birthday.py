@@ -24,6 +24,6 @@ while Cont > 0:
     else:
         print (':(')
         question = input("Are you sure ")
-        test_decision2 = test_decision
+        test_decision2 = test_decision.copy()
         if question in test_decision2:
             Cont = 0
