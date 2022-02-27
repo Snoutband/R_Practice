@@ -1,6 +1,7 @@
 # The original excercise can be found at https://www.superdatascience.com/pages/rcourse Section 3
-# The learning material can be purchased on Udemy. 
-# I added to the excercise for more pratice.   
+# I only used the exercise for reference. 
+# Their learning material can be purchased on Udemy. 
+
 
 install.packages('plyr') # required for count 
 library(plyr)
