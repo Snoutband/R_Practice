@@ -1,5 +1,5 @@
 # The original excercise can be found at https://www.superdatascience.com/pages/rcourse Section 3
-# I only used the exercise for reference. 
+# I did not follow the exercise. 
 # Their learning material can be purchased on Udemy. 
 
 
